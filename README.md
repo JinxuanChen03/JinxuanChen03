@@ -8,17 +8,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinxuanChen03&layout=compact&title_color=000" alt="Top Langs" style="height: 170px;" />
 </div>
 
-<!-- profile-3d-contrib auto-day-night-mode -->
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JinxuanChen03/JinxuanChen03/output-3d-contrib/profile-gitblock.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com//JinxuanChen03/JinxuanChen03/output-3d-contrib/profile-gitblock.svg" />
-	</picture>
-</p>
-
-<!-- profile-3d-contrib 3D 贡献图
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-green-animate.svg" />
-</picture>
--->
+<div style="text-align: center;">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Profile 3D Contrib">
+</div>
