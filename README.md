@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=682B10&width=500&height=80&lines=%F0%9F%91%8BHi%2C+I'm+Jinxuan+Chen)](https://git.io/typing-svg)
 
 - :girl: A passionate full-stack developer from Beijing.
-- :dancer: I'm a Swing dancer concentrated on Balboa and committed to building online Swing communities.
+- :dancer: A Swing dancer concentrated on Balboa and committed to building online Swing communities.
 - :mailbox_with_no_mail: How to reach me: **jinxuan.chen03@gmail.com**
 
 <!-- 
