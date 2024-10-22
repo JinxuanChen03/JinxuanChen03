@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=682B10&width=500&height=80&lines=%F0%9F%91%8BHi%2C+I'm+Jinxuan+Chen)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinxuanChen03%2FJinxuanChen03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- :girl: A passionate full-stack developer from Beijing.
-- :dancer: A Swing dancer concentrated on Balboa and committed to building online Swing communities.
-- :mailbox_with_no_mail: How to reach me: **jinxuan.chen03@gmail.com**
+<a href="https://count.getloli.com/">
+    <img src="https://count.getloli.com/get/@JixnuanChen03.github.readme?theme=love-and-deepspace&scale=0.7" height="100" align="right">
+</a>
+
+- 🧝: A passionate full-stack developer from Beijing.
+- 💃: A Swing dancer concentrated on Balboa and committed to building online Swing communities.
+- 📫: How to reach me: **jinxuan.chen03@gmail.com**
 
 <!-- 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
